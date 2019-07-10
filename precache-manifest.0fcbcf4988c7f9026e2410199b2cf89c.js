@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d1d6db50e2acc60780bfaeca58b7f01",
+    "revision": "4cfaabb3677b8fbeb999bae20549f191",
     "url": "/okat-cupid/index.html"
   },
   {
-    "revision": "ecf8b854e87cbe5ecc31",
+    "revision": "a5bb71739c9c42593765",
     "url": "/okat-cupid/static/css/main.a87930af.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/okat-cupid/static/js/2.e137c02f.chunk.js"
   },
   {
-    "revision": "ecf8b854e87cbe5ecc31",
-    "url": "/okat-cupid/static/js/main.dc726e95.chunk.js"
+    "revision": "a5bb71739c9c42593765",
+    "url": "/okat-cupid/static/js/main.84bef727.chunk.js"
   },
   {
     "revision": "ac4d2b7ca81d0f804757",
